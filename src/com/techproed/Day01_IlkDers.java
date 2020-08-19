@@ -23,7 +23,7 @@ public class Day01_IlkDers {
         // driverimi komple(tum pencereler ile birlikte) kapatiyor.
         //webDriver.quit();
         
-        System.out.println{"GitHub dan merhaba!"};
+        System.out.println("GitHub dan merhaba!");
 
 
 
