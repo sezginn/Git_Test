@@ -25,7 +25,7 @@ public class Day04_GoogleSearchTest {
         WebElement shoppingLinki = driver.findElement(By.partialLinkText("Shopping"));
         shoppingLinki.click();
 
-
+        ////tagName[@attribute='value']; => önemli!  ==>    EZBERLE   <==
 
     }
 }
